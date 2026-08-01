@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the associated paper and this repository."
+title: "AI-Driven Product Design: reproducibility package"
+authors:
+  - family-names: Jayaraman
+    given-names: Deepan
+  - family-names: Kuruva
+    given-names: Ramesh
+  - family-names: Ramachandran
+    given-names: Renjith
+version: 1.0.0
+date-released: 2026-08-01
+license: MIT
+repository-code: "https://github.com/DeepanJayaraman/ai-driven-product-design"
+preferred-citation:
+  type: article
+  title: "From Intuition to Intelligence: A Simulation-Based Framework for AI-Driven Product Design in Early-Stage Ventures"
+  authors:
+    - family-names: Jayaraman
+      given-names: Deepan
+    - family-names: Kuruva
+      given-names: Ramesh
+    - family-names: Ramachandran
+      given-names: Renjith
+  journal: "Journal of Business Venturing Insights"
+  year: 2026
+  notes: "Under review"
